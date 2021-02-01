@@ -2,7 +2,7 @@ https://rubygarage.org/blog/most-basic-git-commands-with-examples
 
                  # Git Cheat Sheet
 Git: configurations
-'''bash
+'''
 $ git config --global user.name "FirstName LastName"
 $ git config --global user.email "your-email@email-provider.com"
 $ git config --global color.ui true
